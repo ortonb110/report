@@ -13,6 +13,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Server runs on port 5000.
+Create a database in the Postgresql incident, and a table incidents.
+Look into the database.sql file to find the command 
 
 
 
